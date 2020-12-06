@@ -1,0 +1,6 @@
+compile:
+	g++ kesehatan.cpp -o kesehatan.exe
+
+launch: 
+	make compile
+	kesehatan.exe
